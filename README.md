@@ -25,6 +25,8 @@ The Class `Filament` has 6 methods:
 2. `Flament.get_intensity()`: Returns a dataframe of pixel intensities from each filament, by substracting the background intensity from the forground intensity.
 3. `Filament.plot_filaments()`: Plots a filaments by color code and the junctions catpured by SOAX.
 
+![alt](image.png)
+
 The Class `Data` has 6 methods:
 
 1. `Data.get_length_distributions(type)`: Returns a dataframe of length ditributions. The paramter type can be either 'wildtype' or 'mutant'.
